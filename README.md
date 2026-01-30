@@ -2,9 +2,7 @@
 
 ### Ticket #1 - File Restore
 
-**Ticket Detail**
-
-The user deleted a file from a shared folder and wants it back
+**Ticket Detail:** The user deleted a file from a shared folder and wants it back
 
 **Steps**
 - 1. Check if it is in the recycling bin.
@@ -13,6 +11,7 @@ The user deleted a file from a shared folder and wants it back
 <img width="365" height="480" alt="Screenshot#1" src="https://github.com/user-attachments/assets/e2e56541-ea38-4158-ab3f-1be699774a08" />
 
 ### Ticket #2 - 
+
 
 
 
