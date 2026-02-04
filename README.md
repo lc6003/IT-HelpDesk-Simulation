@@ -43,13 +43,21 @@
 **Steps**
 - 1. Join the domain
 - 2. Create an account for the user in Active Directory
+
 <img width="433" height="375" alt="sc1" src="https://github.com/user-attachments/assets/5f84ecd2-8922-4179-a7fe-01d3558f5743" />
+
 - 3. Create a security group for HR and add the user to the security group
+
 <img width="396" height="453" alt="sc2" src="https://github.com/user-attachments/assets/d1d88656-7e1b-46ba-896c-e48d9f559ed2" />
+
 - 4. Then, create a shared folder called HR and add the security group to it, and make sure its NTFS permissions are correct
+
 <img width="766" height="361" alt="sc3" src="https://github.com/user-attachments/assets/3e40af61-42d7-4852-9197-2889c14d7874" />
+
 - 5. Log in as the new user to make sure everything is working and map the drive of the user to their department
+
 <img width="1021" height="718" alt="sc4" src="https://github.com/user-attachments/assets/7ec83ce6-6755-4c7b-9ef0-25f107b2bf1f" />
+
 
 
 
