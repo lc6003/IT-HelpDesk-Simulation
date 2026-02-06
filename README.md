@@ -15,8 +15,9 @@
 **Ticket Detail:** - User has requested to gain Admin rights and the ability to remote into his machine
 
 **Steps**
-- 1. Grant admin rights by going into computer management, under users & groups, select groups, and look for administrator, right click and select properties, and add the user as an admin
-- 2. Search advanced system settings and goto into the remote tab and enable remote connections to this computer
+- 1. Verify with the higher-ups that this user is allowed admin rights and the ability to remote
+- 2. Grant admin rights by going into computer management, under users & groups, select groups, and look for administrator, right click and select properties, and add the user as an admin
+- 3. Search advanced system settings and goto into the remote tab and enable remote connections to this computer
  
 <img width="991" height="709" alt="Screenshot#2" src="https://github.com/user-attachments/assets/9ddc1c03-1f92-4462-8953-01e7cfb4e72c" />
 
@@ -28,7 +29,7 @@
 - 1. Verify that the user's PC is no longer on the domain by checking Server Manager and under AD's users and computers
 - 2. If the user's PC is no longer on the domain, we would have to manually log onto the user's PC using a local admin account
 - 3. After logging in, we would join the PC into a workgroup and restart the computer, then rejoin the PC into the domain
-- 4. Verify by relogining as the user and checking on your server that the PC is in the domain
+- 4. Verify by relogging as the user and checking on your server that the PC is in the domain
 
 <img width="434" height="494" alt="Screenshot#3" src="https://github.com/user-attachments/assets/aeedbfc7-8f68-4111-92a9-2c29b8ede6f9" />
 
@@ -69,8 +70,18 @@
 
 <img width="751" height="523" alt="pic#1" src="https://github.com/user-attachments/assets/427211ba-8f36-4b13-ab22-fbf288297605" />
 
+### Ticket #6 - Blackscreen
 
+**Ticket Detail:** - After the user logs in, they are only able to see a black screen and their mouse
 
+**Steps**
+- 1. Identify the problem by remoting onto the user's computer or doing it in person
+- 2. Log in and see if the problem reoccurs
+- 3. If the problem is present, we would go into the task manager through CTRL+ALT+DEL
+- 4. The culprit usually is explorer.exe, as that provides the GUI for the computer
+- 5. Restart the explorer.exe, or if explorer.exe is not present, add explorer.exe under run task
+
+### Ticket #7 - 
 
 
 
