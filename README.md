@@ -58,7 +58,16 @@
 
 <img width="1021" height="718" alt="sc4" src="https://github.com/user-attachments/assets/7ec83ce6-6755-4c7b-9ef0-25f107b2bf1f" />
 
+### Ticket #5 - Unable to log in
 
+**Ticket Detail:** - The user has forgotten her password and has locked their account due to multiple unsuccessful attempts
+
+**Steps**
+- 1. Head to Active Directory Users and Computers
+- 2. Click on the user's profile
+- 3. Click on reset password, unlock the account, and prompt the user to create a new password upon login
+
+<img width="751" height="523" alt="pic#1" src="https://github.com/user-attachments/assets/427211ba-8f36-4b13-ab22-fbf288297605" />
 
 
 
