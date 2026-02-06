@@ -81,7 +81,20 @@
 - 4. The culprit usually is explorer.exe, as that provides the GUI for the computer
 - 5. Restart the explorer.exe, or if explorer.exe is not present, add explorer.exe under run task
 
-### Ticket #7 - 
+### Ticket #7 - Lost account
+
+**Ticket Detail:** - An employee who was laid off was reinstated and needs their account back
+
+**Steps**
+- 1. Check to see if the user's account is still in our Active Directory
+- 2. If the user's account is still in our Active Directory, we will activate their account, reset their password, and prompt them to change their password upon login in
+
+<img width="777" height="675" alt="pic#2" src="https://github.com/user-attachments/assets/4b4acade-2a55-4c3a-8b91-79aae799e7fe" />
+
+- 3. If the account is not present, we would need to navigate to Active Directory Administrative Center
+- 4. Under deleted objects, we would restore the account
+
+<img width="1362" height="782" alt="Pic#3" src="https://github.com/user-attachments/assets/235669aa-294e-44b8-bcd0-4d3e8b2fc03b" />
 
 
 
