@@ -97,8 +97,13 @@
 <img width="1362" height="782" alt="Pic#3" src="https://github.com/user-attachments/assets/235669aa-294e-44b8-bcd0-4d3e8b2fc03b" />
 
 
+# Jira Ticketing System
 
+<img width="796" height="799" alt="Jira1" src="https://github.com/user-attachments/assets/ded56104-5415-4f56-be68-c36cc57847c4" />
 
+<img width="1912" height="915" alt="Jira2" src="https://github.com/user-attachments/assets/0dcbd5ef-9e32-4fcc-815e-14f57e8870b3" />
 
+<img width="1912" height="913" alt="Jira3" src="https://github.com/user-attachments/assets/61b2b825-c7ae-44c4-9441-35d5ef7c2f03" />
 
+<img width="1916" height="916" alt="Jira4" src="https://github.com/user-attachments/assets/492b3c11-a4ee-48fe-ac2b-06298f338425" />
 
